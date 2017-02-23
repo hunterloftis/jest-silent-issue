@@ -1,0 +1,12 @@
+{
+  "name": "jestsilent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --silent"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
